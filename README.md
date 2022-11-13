@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Shivanka Priyashan</h1>
-<h3 align="center">I am currently an Electronic and Telecommunication Engineering undergraduate at University of Moratuwa, Sri Lanka. I'm interested in Machine Learning, Computer Vision and Robotics.  </h3>
+<h3 align="center">I am currently an <strong>Electronic and Telecommunication Engineering</strong> undergraduate at University of Moratuwa, Sri Lanka. I'm interested in Machine Learning, Computer Vision and Robotics.  </h3>
 <p align="right"><img align="right" alt="Coding" width="400" src="https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png?quality=90">
 
 <h3 align="left">Connect with me:</h3>
